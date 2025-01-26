@@ -113,13 +113,14 @@ This project demonstrates the implementation of a React application using Vite. 
 
 ## **Video**
 
-![lab1bass](https://github.com/user-attachments/assets/dd16aad0-f947-45b0-a109-fc861120a9b1)
+![lab1bass](https://github.com/user-attachments/assets/7e459cab-f773-43ec-82b9-e2696c7c4713)
+
+<img src="https://github.com/basss2024/FAU-FullStack-Dev-Spring2025-lab-1-basss2024/raw/main/lab1bass.gif" alt="Sea Monster Crowdfunding GIF" width="600">
 
 
 
 
-## **Snippet of Vite**
-![image](https://github.com/user-attachments/assets/546f9d1f-330f-4153-9b5b-10969d23a8ec)
+
 
 
 
